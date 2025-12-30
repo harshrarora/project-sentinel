@@ -92,6 +92,14 @@ python attack_sim.py
 - **False Positives:** 0%
 - **Real Device Compromised:** NO
 
+## Screenshots
+
+### Dashboard
+![](dashboard_overview.png)
+
+### Deception & Containment
+![](deception_states.png)
+
 ## Technology Stack
 
 - **Python**
