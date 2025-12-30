@@ -85,7 +85,7 @@ streamlit run dashboard.py           # View dashboard
 python attack_sim.py
 ```
 
-## 📊 Demo Results
+## Demo Results
 
 - **Detection Time:** < 30 seconds
 - **Containment Time:** < 1 minute
