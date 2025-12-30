@@ -87,7 +87,6 @@ python attack_sim.py
 
 ## Demo Results
 
-- **Detection Time:** < 30 seconds
 - **Containment Time:** < 1 minute
 - **False Positives:** 0%
 - **Real Device Compromised:** NO
