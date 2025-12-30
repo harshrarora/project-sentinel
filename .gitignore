@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+scan.json
+decisions.json
+events.json
+decision.json
+
